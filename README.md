@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently building AI agent skills, evaluation frameworks, and workflow playbooks for coding agents.
+  Currently building AI agent skills, evaluation frameworks, and workflow playbooks for AI coding agents.
 </p>
 
 <br>
