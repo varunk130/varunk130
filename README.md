@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently building AI agent skills, evaluation frameworks, and workflow playbooks for AI coding agents.
+  Currently building AI agent skills, evaluation frameworks, and workflow playbooks for AI coding agents — and contributing them back to the Microsoft open-source community.
 </p>
 
 <br>
