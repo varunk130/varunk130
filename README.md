@@ -1,11 +1,15 @@
 <h1 align="center">Hey, I'm Varun 👋</h1>
 
 <p align="center">
-  I work as an Applied AI Product and GTM Partnerships Lead at <strong>Meta</strong>, where I drive AI product strategy for global ads solutions and lead GTM partnerships across our agentic ads ecosystem — serving over 1 billion users worldwide.
+  I work as an Applied AI Product and GTM Partnerships Lead at <strong>Meta</strong>, where I lead applied AI product strategy, product development, and GTM partnerships for global ads solutions across our agentic ads ecosystem — serving over <strong>1 billion</strong> users worldwide.
 </p>
 
 <p align="center">
   Previously, I was an AI Builder and PM at <strong>Microsoft</strong>, working on <strong>Microsoft 365 Copilot Ecosystems</strong>, where I led Copilot extensibility efforts — helping ISVs and AI-native companies build agents, MCP servers, and plugins with the Microsoft 365 Agents SDK, OpenAI Apps SDK, and Microsoft Copilot Studio. I also drove the AI Natives workstream, partnering with the next generation of AI-native companies building on the Microsoft 365 Copilot platform.
+</p>
+
+<p align="center">
+  Before that, I headed AI and GTM initiatives at <strong>Cisco Webex</strong> and <strong>Deloitte</strong>.
 </p>
 
 <p align="center">
