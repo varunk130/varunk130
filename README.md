@@ -1,11 +1,15 @@
 <h1 align="center">Hey, I'm Varun 👋</h1>
 
 <p align="center">
-  AI Builder & PM at <strong>Microsoft</strong>, working on <strong>Microsoft 365 Copilot Ecosystems</strong>. I lead Copilot extensibility efforts — helping ISVs and AI-native companies create agents, MCP servers, and plugins using the Microsoft 365 Agents SDK, OpenAI Apps SDK, and Microsoft Copilot Studio. I also drive the AI Natives workstream, partnering with the next generation of AI natives to build on the Microsoft 365 Copilot platform.
+  I work as an Applied AI Product and GTM Partnerships Lead at <strong>Meta</strong>, where I drive AI product strategy for global ads solutions and lead GTM partnerships across our agentic ads ecosystem — serving over 1 billion users worldwide.
 </p>
 
 <p align="center">
-  Currently building AI agent skills, evaluation frameworks, GTM engineering and workflow playbooks for AI coding agents — and contributing them back to the Microsoft open-source community.
+  Previously, I was an AI Builder and PM at <strong>Microsoft</strong>, working on <strong>Microsoft 365 Copilot Ecosystems</strong>, where I led Copilot extensibility efforts — helping ISVs and AI-native companies build agents, MCP servers, and plugins with the Microsoft 365 Agents SDK, OpenAI Apps SDK, and Microsoft Copilot Studio. I also drove the AI Natives workstream, partnering with the next generation of AI-native companies building on the Microsoft 365 Copilot platform.
+</p>
+
+<p align="center">
+  Currently building AI agent skills, evaluation frameworks, GTM engineering, and workflow playbooks for AI coding agents — and contributing them back to the open-source community.
 </p>
 
 ---
