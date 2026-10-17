@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Currently building AI agent skills, evaluation frameworks, GTM engineering, and workflow playbooks for AI coding agents — and contributing them back to the open-source community.
+  Currently building AI agent skills, evaluation frameworks, GTM engineering tools, and workflow playbooks for AI coding agents — and contributing them back to the open-source community.
 </p>
 
 ---
